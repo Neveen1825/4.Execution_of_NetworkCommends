@@ -69,15 +69,18 @@ print(result,unans)
 ## Output
 # client.py
 
-![image](https://github.com/user-attachments/assets/24cee65e-d2ab-443f-8a87-ac3927780e85)
+![image](https://github.com/user-attachments/assets/ce9777a5-c4c5-4b96-adfb-4689c1a245fc)
+
 
 
 # Server.py
-![image](https://github.com/user-attachments/assets/f51f16a6-eb48-4c9c-bad3-1a980f338d25)
+![image](https://github.com/user-attachments/assets/65c99db7-e655-4225-9470-44c53a1d6f82)
+
 
 # TRANCEROUTE COMMAND
 
-![image](https://github.com/user-attachments/assets/aac0abed-1851-4409-8430-1db83572b0b9)
+![image](https://github.com/user-attachments/assets/cb6583a3-6b20-48b7-9e7a-43a46c5bcc62)
+
 
 ## Result
 Thus Execution of Network commands Performed 
